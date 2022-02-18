@@ -1,0 +1,3 @@
+word	단어
+list	리스트
+wood	나무
